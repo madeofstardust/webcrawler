@@ -20,7 +20,7 @@ visited = set()
 MaxTimeAllowed = 50  #seconds
 
 #Say hello 
-echo "Hello"
+print("Hello")
 
 
 #From which page we start:
