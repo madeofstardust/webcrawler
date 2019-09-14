@@ -19,6 +19,10 @@ visited = set()
 #Maximum time allowed:
 MaxTimeAllowed = 50  #seconds
 
+#Say hello 
+echo "Hello"
+
+
 #From which page we start:
 try:
 	startingPoint = raw_input("Enter the phrase you want to start with: \n")
